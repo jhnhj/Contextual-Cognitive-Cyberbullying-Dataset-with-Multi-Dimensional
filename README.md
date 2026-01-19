@@ -1,7 +1,7 @@
 # Contextual-Cognitive-Cyberbullying-Dataset-with-Multi-Dimensional
 The 3CD-MD dataset comprises 12,766 samples covering 19 distinct public opinion events on Weibo. To achieve panoramic modeling of cyberbullying, the annotation follows a proprietary "Subject-Object-Scene" framework
 
-For access to the data and related code, please contact mengzheng@mails.ccnu.edu.cn. When reaching out, kindly provide details regarding your institution and the purpose of your request. Upon review, we will send you the required data.
+This repository currently contains a representative sample of the 3CD-MD dataset and the full source code for reproducibility. The full dataset will be automatically released in this repository immediately upon the acceptance of the paper.
 
 ## 📖 Overview / 项目简介
 **3CD-MD** is a multi-dimensional Chinese cyberbullying dataset designed to facilitate research on **implicit violence detection** and **psychological mechanism analysis**. 
